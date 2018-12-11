@@ -1,24 +1,20 @@
 .jumbotron {
-    background: url("src/assets/portada2.jpeg") no-repeat center center;
-    background-size: cover;
-    position:relative;
-    margin-bottom: 0%;
-}
-
-.container {
-  padding: 1rem;
+  background: url("src/assets/portada2.jpeg") no-repeat center center;
+  background-size: cover;
+  position:relative;
+  margin-bottom: 0%;
 }
 
 .jumbotron .container {
-  z-index: 1;
+z-index: 1;
 }
 
 .small {
-  height: 50px;
+height: 50px;
 }
 
 .dark { 
-  background-color: #000;
-  height: 100%;
-  width: 100%;
+background-color: #000;
+height: 100%;
+width: 100%;
 }
