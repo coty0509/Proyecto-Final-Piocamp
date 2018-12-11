@@ -1,0 +1,4 @@
+.jumbotron {
+    background: url("src/assets/portada2.jpeg") no-repeat center center;
+    background-size: cover;
+  }
